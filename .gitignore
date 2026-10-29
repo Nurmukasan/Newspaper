@@ -1,0 +1,8 @@
+.taste-skill/
+.impeccable/
+node_modules/
+test-results/
+__pycache__/
+*.log
+
+dist/
